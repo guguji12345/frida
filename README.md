@@ -62,4 +62,4 @@ for details.
 
 ## Learn more
 
-Have a look at our [documentation](https://frida.re/docs/home/).
+Have a look at our [documentation](https://frida.re/docs/home/). check
